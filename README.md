@@ -13,7 +13,7 @@ Tutorial
   - npm install -g just-install
   - just install
   - cp .env.example .env
-6. Isi faucet https://www.alchemy.com/faucets/optimism-sepolia & https://www.alchemy.com/faucets/base-sepolia
+    Siapkan wallet EVM kosong dan isi faucet https://www.alchemy.com/faucets/optimism-sepolia & https://www.alchemy.com/faucets/base-sepolia
 7. Buka file .env
 ![image](https://github.com/jukiardiansyah/polymer-dontbemad/assets/74748443/dff2ceed-d181-4b70-9ac2-ed9fa25ce3f0)
   - Nomor 1 isi private key wallet
